@@ -1,2 +1,2 @@
 # redfin-emr
-This project involves analyzing real estate data from Redfin using Apache Spark on Amazon EMR (Elastic MapReduce). 
+This project involves analyzing real estate data from Redfin using Apache Spark on Amazon EMR (Elastic MapReduce). The data was processed and analyzed in a distributed environment to extract meaningful insights such as pricing trends, location-based metrics, and property characteristics. A Jupyter Notebook hosted on EMR was used for developing and visualizing the data pipeline, enabling interactive analysis and efficient handling of large datasets.
